@@ -15,7 +15,7 @@ int main(){
     {0, 0, 0, 0, 0, 0, 0, 0, 0, 0}
   };
 
-  // Define o tamanho dos navios
+  // Define os navios
   int navio1[3] = {3, 2, 3}; // Primeiro valor == tamanho; Segundo valor == Linha; Terceiro valor == coluna;
   int navio2[3] = {3, 5, 7};
 
